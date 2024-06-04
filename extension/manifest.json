@@ -6,7 +6,7 @@
     },
     "description": "Makes it easy to see full-res images of yachts on Yachtworld, without having to click through to each image.",
     "version": "1.0",
-    "permissions": ["tabs","scripting","activeTab"],
+    "permissions": ["scripting","activeTab"],
     "background":
     {
       "service_worker": "background.js"
